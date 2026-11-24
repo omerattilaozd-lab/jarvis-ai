@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.venv-tts/
+voice_samples/
+voice/reference/
+__pycache__/
